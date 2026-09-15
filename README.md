@@ -1,4 +1,4 @@
-# Praktikum 1 - Eksplorasi Data (EDA)
+# Pengumpulan Laporan Praktek
 
 Mata Kuliah: Pembelajaran Mesin (INF62325)
 Nama : Lailatul Qodariah
